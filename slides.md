@@ -38,15 +38,15 @@ src: ./pages/introduction.md
 ---
 
 ---
-src: ./pages/what-is-jit.md
+src: ./pages/yesterday.md
 ---
 
 ---
-src: ./pages/a-basic-jit.md
+src: ./pages/now.md
 ---
 
 ---
-src: ./pages/jit-in-python.md
+src: ./pages/future.md
 ---
 
 ---

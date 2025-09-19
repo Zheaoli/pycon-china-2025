@@ -1,15 +1,14 @@
 ---
 transition: view-transition
 ---
-## Python JIT 实现 101
+## Python 3.14: π 的 Python
 
 这次分享将分为几个部分进行
 
 <v-clicks>
 
-- 什么是 JIT
-- 一个基础的 JIT 是怎么样的
-- Python 当前 JIT 的实现
+- 回顾一下两年前的 Python
+- Python 3.14 的重大变化
 - 未来的发展
 
 </v-clicks>
