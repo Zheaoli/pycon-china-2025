@@ -17,7 +17,7 @@ transition: view-transition
 ---
 transition: view-transition
 layout: image-right
-image: ./images/xunxiang2.jpg
+image: ./images/xunxiang.jpg
 ---
 
 # 自我介绍一下
